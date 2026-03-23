@@ -2,7 +2,7 @@
 🎓 B.Tech Student (CSE, 2026) | 💻 Full Stack Developer | 🔐 Cybersecurity Enthusiast  <br>
 
 ## 💫 About Me:
-- 🌱 **Exploring Full Stack Development, AI/ML, and Backend Systems**  <br>
+- 🌱 **Exploring Software Development, Full Stack Development, AI/ML, and Backend Systems**  <br>
 - ⚡ **Building projects with Java, PHP, Node.js, and Web Technologies**  <br>
 - 🤖 **Worked on AI Image Generator, Inventory Management, and Product Catalog Applications**<br><br>
 
@@ -66,6 +66,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=abhee2305&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abhee2305&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhee2305&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Mentality
+Go with the FLOW.....
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhee2305&theme=radical&no-frame=false&no-bg=true&margin-w=4)
