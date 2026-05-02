@@ -80,10 +80,15 @@ Git • GitHub • VS Code
 
 ## 🚀 Projects
 
-- 🎨 **AI Image Generator** – React.js, Node.js, Llama API  
-- 📦 **Product Catalog System** – PHP, MySQL, JavaScript  
-- 🏢 **Inventory Management SaaS** – PHP, MySQL, JavaScript  
+- 🧠 **Procto-AI** – HTML, JavaScript, AI  
+  → AI-based online proctoring system with real-time monitoring and cheating detection
 
+- 💰 **Expense-Splitter** – Java, OOP  
+  → Splitwise-like application for managing shared expenses and tracking balances
+
+- 💬 **Multi-user Chat** – Node.js, WebSockets, JavaScript  
+  → Real-time chat application supporting multiple users with instant messaging
+  
 ---
 
 <h2 align="center">🏆 LeetCode Streak Badges 🏆</h2>  
