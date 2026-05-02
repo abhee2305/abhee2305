@@ -80,14 +80,20 @@ Git • GitHub • VS Code
 
 ## 🚀 Projects
 
-- 🧠 **Procto-AI** – HTML, JavaScript, AI  
-  → AI-based online proctoring system with real-time monitoring and cheating detection
+- 🤖 **Procto-AI** – Java Spring Boot, MongoDB, TensorFlow.js, JWT, Docker  
+  → AI-powered online exam proctoring system with real-time face detection, phone/object detection (COCO-SSD), audio monitoring, and fullscreen enforcement.  
+  → Deployed live on Railway.app  
+  🔗 Live: https://securetest-backend-production.up.railway.app  
 
 - 💰 **Expense-Splitter** – Java, OOP  
-  → Splitwise-like application for managing shared expenses and tracking balances
+  → Splitwise-like CLI application implementing expense splitting and balance tracking using Object-Oriented Programming principles
+  → Deployed live on Railway.app  
+  🔗 Live: https://securetest-backend-production.up.railway.app  
 
 - 💬 **Multi-user Chat** – Node.js, WebSockets, JavaScript  
-  → Real-time chat application supporting multiple users with instant messaging
+  → Real-time chat application enabling multiple users to communicate instantly using WebSocket protocol with event-driven architecture
+  → Deployed live on Railway.app  
+  🔗 Live: https://securetest-backend-production.up.railway.app  
   
 ---
 
