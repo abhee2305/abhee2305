@@ -86,14 +86,14 @@ Git • GitHub • VS Code
   🔗 Live: https://securetest-backend-production.up.railway.app  
 
 - 💰 **Expense-Splitter** – Java, OOP  
-  → Splitwise-like CLI application implementing expense splitting and balance tracking using Object-Oriented Programming principles
-  → Deployed live on Railway.app  
-  🔗 Live: https://securetest-backend-production.up.railway.app  
+  → Splitwise-like CLI application implementing expense splitting and balance tracking using Object-Oriented Programming principles   
+  → Deployed live on Render.com   
+  🔗 Live: https://expense-splitter-abhee.onrender.com  
 
 - 💬 **Multi-user Chat** – Node.js, WebSockets, JavaScript  
-  → Real-time chat application enabling multiple users to communicate instantly using WebSocket protocol with event-driven architecture
-  → Deployed live on Railway.app  
-  🔗 Live: https://securetest-backend-production.up.railway.app  
+  → Real-time chat application enabling multiple users to communicate instantly using WebSocket protocol with event-driven architecture   
+  → Deployed live on Render.com   
+  🔗 Live : https://multi-user-chat-abhee.onrender.com
   
 ---
 
